@@ -1,0 +1,37 @@
+{
+ "status": "ok",
+ "result": [
+  {
+   "ownerKey": "s6537051",
+   "name": "Reggae Reggae Sauce",
+   "shortUrl": "http://rd.io/x/Qi8vfQ4/",
+   "baseIcon": "album/a/a/5/00000000002ca5aa/1/square-200.jpg",
+   "ownerIcon": "user/b/5/f/000000000063bf5b/1/square-100.jpg",
+   "owner": "Andr\u00e9 Ericson",
+   "lastUpdated": 1388914964.0,
+   "url": "/people/AndrEricson/playlists/7152205/Reggae_Reggae_Sauce/",
+   "length": 162,
+   "key": "p7152205",
+   "ownerUrl": "/people/AndrEricson/",
+   "embedUrl": "https://rd.io/e/Qi8vfQ4/",
+   "type": "p",
+   "icon": "http://m.rdio.com/_is/?aid=223514-0,242521-0,335776-1,602005-0,807621-5,1115549-1,1325102-0,1660408-2,1661777-1&w=200&h=200"
+  },
+  {
+   "ownerKey": "s6537051",
+   "name": "metaaaaaal",
+   "shortUrl": "http://rd.io/x/Qi8vQLM/",
+   "baseIcon": "album/d/9/e/000000000032fe9d/2/square-200.jpg",
+   "ownerIcon": "user/b/5/f/000000000063bf5b/1/square-100.jpg",
+   "owner": "Andr\u00e9 Ericson",
+   "lastUpdated": 1384991742.0,
+   "url": "/people/AndrEricson/playlists/7151600/metaaaaaal/",
+   "length": 645,
+   "key": "p7151600",
+   "ownerUrl": "/people/AndrEricson/",
+   "embedUrl": "https://rd.io/e/Qi8vQLM/",
+   "type": "p",
+   "icon": "http://m.rdio.com/_is/?aid=21581-3,122993-1,204883-0,224866-2,228212-1,228238-3,249525-0,298413-0,319781-0&w=200&h=200"
+  }
+ ]
+}

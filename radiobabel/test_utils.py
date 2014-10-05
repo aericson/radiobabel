@@ -6,6 +6,7 @@ from __future__ import unicode_literals
 # stdlib imports
 import os
 import re
+import json
 
 
 def load_config(path='.env'):
@@ -30,3 +31,11 @@ def load_config(path='.env'):
             if m3:
                 val = re.sub(r'\\(.)', r'\1', m3.group(1))
             os.environ.setdefault(key, val)
+
+
+def load_fixture(file):
+    fixtures_folder = os.path.abspath(
+        os.path.join(__file__, os.pardir, os.pardir, 'tests', 'fixtures')
+    )
+    with open(os.path.join(fixtures_folder, file)) as fixture:
+        return json.loads(fixture.read())

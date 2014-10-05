@@ -17,6 +17,8 @@ setuptools.setup(
 
     install_requires=[
         'soundcloud>=0.4.1',
+        'requests_oauthlib>=0.4.1',
+        'mock>=1.0.1'
     ],
 
     classifiers=[
